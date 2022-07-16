@@ -1,0 +1,1 @@
+<div style='text-align:center;'><a href="<?= \yii\helpers\Url::to(Yii::$app->homeUrl)?>" class="btn btn-primary">На главную</a></div>
